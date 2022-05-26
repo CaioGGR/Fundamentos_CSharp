@@ -1,0 +1,30 @@
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Calculator/obj/Debug/net6.0/ref/Calculator.dll

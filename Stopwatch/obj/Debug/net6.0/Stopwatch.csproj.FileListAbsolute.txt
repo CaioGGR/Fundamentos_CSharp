@@ -1,0 +1,30 @@
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/refint/Stopwatch.dll
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache
+/home/caiobastudy/Área de Trabalho/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/refint/Stopwatch.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll

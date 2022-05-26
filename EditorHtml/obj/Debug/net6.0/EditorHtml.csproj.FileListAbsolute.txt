@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/home/caiobastudy/Desktop/Fundamentos_CSharp/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
